@@ -1,4 +1,4 @@
-# COVID-19 India SQL Analysis
+# Project 2
 
 ## Overview
 SQL-based analysis of India's COVID-19 data using SQLite and Python,
